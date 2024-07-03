@@ -1,9 +1,9 @@
 # WSNApp
 
 
-| Launch Screen                                                      | Videos.              |   NewsFeed           |
-| -------------------------------------------------------------------|----------------------|----------------------|
-| ![](SimulatorScreenshot-iPhone15ProMax-2024-07-03at14.12.08.png)   | ![](videosVC.png)    | ![](newsFeedVC.png)  |
+| Launch Screen                                                                | Videos.              |   NewsFeed           |
+| -----------------------------------------------------------------------------|----------------------|----------------------|
+| ![](Simulator Screenshot - iPhone 15 Pro Max - 2024-07-03 at 14.12.03.png)   | ![](videosVC.png)    | ![](newsFeedVC.png)  |
 
 
 
