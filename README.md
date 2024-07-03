@@ -1,13 +1,15 @@
 # WSNApp
 
 
-| Launch Screen | SignUp/Login |
-| --------------|--------------|
-|  ![](10.png)  | ![](20.png)  |
+| Launch Screen | SignUp/Login | Categories    |   NewsFeed   |
+| --------------|--------------| --------------|--------------|
+|  ![](10.png)  | ![](20.png)  |  ![](30.png)  | ![](40.png)  |
 
-| Categories    |   NewsFeed   |
-|---------------|--------------|
-|  ![](30.png)  | ![](40.png)  |
+
+
+
+
+
 
 
 
